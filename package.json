@@ -1,6 +1,6 @@
 {
-  "name": "smart-retail",
   "homepage": "http://THATAVARTHIAKASH.github.io/SmartStock",
+  "name": "smart-retail",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
